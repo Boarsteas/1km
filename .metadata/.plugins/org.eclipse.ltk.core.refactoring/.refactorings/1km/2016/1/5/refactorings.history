@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;aa.CapitalizeServer.java&apos; to &apos;CapitalizeClient.java&apos;&#x0A;- Original project: &apos;1km&apos;&#x0A;- Original element: &apos;aa.CapitalizeServer.java&apos;&#x0A;- Renamed element: &apos;aa.CapitalizeClient.java&apos;" description="Rename compilation unit &apos;CapitalizeServer.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;aa{CapitalizeServer.java" name="CapitalizeClient.java" references="false" stamp="1453832090248" version="1.0"/>
+</session>
